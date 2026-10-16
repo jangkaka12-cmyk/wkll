@@ -1,0 +1,5 @@
+Thoi diem do : 2026-10-12 11:02
+CPU          : AMD Ryzen 7 7435HS (8 nhan / 16 luong)
+RAM          : 15.7 GB
+He dieu hanh : Windows-11-10.0.26300-SP0
+Phan mem     : Python 3.14.3, cryptography 50.0.0
